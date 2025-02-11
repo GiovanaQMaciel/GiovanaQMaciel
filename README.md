@@ -14,6 +14,7 @@ Amo ler livros, principalmente as histórias que contém muita aventura, mistér
 No quesito de música, sou muito eclética. Mas, minha banda preferida, com certeza é Cold Play.
 ## Habilidades
 
+<div>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="90" height="90"/>
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="90" height="90"/>
@@ -25,6 +26,7 @@ No quesito de música, sou muito eclética. Mas, minha banda preferida, com cert
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original-wordmark.svg" width="90" height="90"/>
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="90" height="90"/>
+</div>
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="90" height="90"/>
 
