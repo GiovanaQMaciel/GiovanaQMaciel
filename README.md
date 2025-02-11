@@ -26,7 +26,6 @@ No quesito de música, sou muito eclética. Mas, minha banda preferida, com cert
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original-wordmark.svg" width="90" height="90"/>
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="90" height="90"/>
-</div>
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="90" height="90"/>
 
@@ -49,6 +48,7 @@ No quesito de música, sou muito eclética. Mas, minha banda preferida, com cert
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" width="90" height="90"/>
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg"  width="90" height="90"/>
+</div>
 
 
 ## Cobrinha
